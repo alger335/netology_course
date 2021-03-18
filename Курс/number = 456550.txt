@@ -1,9 +1,0 @@
-number = 456550
-num_1 = number // 100000
-num_2 = number // 10000 % 10
-num_3 = number // 1000 % 10
-num_4 = number // 100 % 10
-num_5 = number // 10 % 10
-num_6 =  % 10
-
-print((num_1 + num)
